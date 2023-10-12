@@ -7,5 +7,9 @@ Please cite the following references if you use these data:
 2. Dzianok P, Antonova I, Wojciechowski J, Dreszer J, Kublik E. Supporting data for "The Nencki-Symfonia EEG/ERP dataset: Multiple cognitive tasks and resting-state data collected in a sample of healthy adults" GigaScience Database, 2022. http://doi.org/10.5524/100990
 
 Release history:
+
 26/01/2022: Initial release (GigaDB)
-15/06/2022: Added to OpenNeuro; updated README and dataset_description.json; minor updated to .json files related with BIDS errors/warnings. Updated events files (ms changed to s).
+
+15/06/2023: Added to OpenNeuro; updated README and dataset_description.json; minor updated to .json files related with BIDS errors/warnings. Updated events files (ms changed to s).
+
+12/10/2023: public release on OpenNeuro after deleting some additional, not needed system information from raw logfiles
