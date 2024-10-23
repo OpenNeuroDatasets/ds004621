@@ -14,4 +14,4 @@ Release history:
 
 12/10/2023: public release on OpenNeuro after deleting some additional, not needed system information from raw logfiles
 
-10/2024: minor correction of logfiles in the /sourcedata directory (MSIT and SRT) for sub-01 to sub-03.
+10/2024: minor correction of logfiles in the /sourcedata directory (MSIT and SRT) for sub-01 to sub-03
