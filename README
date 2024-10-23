@@ -13,3 +13,5 @@ Release history:
 15/06/2023: Added to OpenNeuro; updated README and dataset_description.json; minor updated to .json files related with BIDS errors/warnings. Updated events files (ms changed to s).
 
 12/10/2023: public release on OpenNeuro after deleting some additional, not needed system information from raw logfiles
+
+10/2024: minor correction of logfiles in the /sourcedata directory (MSIT and SRT) for sub-01 to sub-03.
