@@ -16,4 +16,4 @@ Release history:
 
 10/2024: minor correction of logfiles in the /sourcedata directory (MSIT and SRT) for sub-01 to sub-03
 
-02/2025 (v1.0.3): Corrections to REST files for subjects sub-20 and sub-23 (EEG and .tsv files) – corrected marker names and removed redundant markers
+02/2025 (v1.0.3): corrections to REST files for subjects sub-20 and sub-23 (EEG and .tsv files) – corrected marker names and removed redundant markers
